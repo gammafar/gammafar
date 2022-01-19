@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gammafar, a Software Develpment Engineer In Seattle, WA.
-- 👀 I’m interested in building applications.
 - 📫 How to reach me: raag.pokhrel@gmail.com
 
 <!---
